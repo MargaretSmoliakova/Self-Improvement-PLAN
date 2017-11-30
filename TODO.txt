@@ -1,3 +1,4 @@
 - Before GIT reading, read about unit testing (for .net);
 - UI for .net (front-end);
 - Async programming (threading, parallel, about await and s.o.)
+- get course on Algoritms (coursera).
