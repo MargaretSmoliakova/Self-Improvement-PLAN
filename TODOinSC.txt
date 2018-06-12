@@ -1,5 +1,0 @@
-- how Identity of Users is done in SC
-- SC pipeline of requests and responses
-- explore assemblies (their cil, type metadate, manifest, locals/globals) in SC and try to resolve problems with JBRider
-- understand all config. files and their purpose in SC
-- how data storage is realized in SC (aws, azure, iis and s.o.)
